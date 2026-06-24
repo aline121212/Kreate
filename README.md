@@ -1,2 +1,2 @@
 # Kurate
-Kreate app
+Kurate app
