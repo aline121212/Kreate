@@ -1,2 +1,2 @@
-# Kreate
+# Kurate
 Kreate app
